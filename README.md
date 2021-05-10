@@ -11,6 +11,6 @@ Oynamak için: https://keremersu35.github.io/ReachHomeJS/
 
 # Oyun Görüntüleri
 
-<img src="Images/ss1.png" width="700" height="300">  <img src="Images/ss2.png" width="700" height="300">
+<img src="Images/ss1.png" width="700" height="500">  <img src="Images/ss2.png" width="700" height="500">
 
 
