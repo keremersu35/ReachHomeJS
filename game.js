@@ -83,10 +83,10 @@ function scoreFunc(){           // score fonksiyonu
 
 function finishGame(){ // Oyun bittiginde score u yazdiran fonksiyon
 
-    gradient.addColorStop("0.0", "black");
+    gradient.addColorStop("0.0", "yellow");
     ctx.fillStyle = gradient; 
     ctx.fillRect(290,185,500,100);
-    gradient.addColorStop("0.0", "white");
+    gradient.addColorStop("0.0", "darkorchid");
     ctx.fillStyle = gradient; 
     ctx.font = "32px Verdana";
     ctx.fillText("Your Score: "+score,410,230);
