@@ -9,3 +9,7 @@ Oynamak için: https://keremersu35.github.io/ReachHomeJS/
 `⬅️  ➡️`: Yön tuşları ile arabayı kontrol et.</br>
 `🖱️`: Oyun sonu mouse left click ile oyunu yeniden başlat.
 
+# Oyun Görüntüleri
+
+
+
