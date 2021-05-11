@@ -23,5 +23,5 @@ Oynamak için: https://keremersu35.github.io/ReachHomeJS/
 
 # Oluşturan
 
-`Kerem Ersu` [LinkedIn](https://www.linkedin.com/in/kerem-ersu-0082ba194/)
+`Kerem Ersu` => [LinkedIn](https://www.linkedin.com/in/kerem-ersu-0082ba194/)
 
