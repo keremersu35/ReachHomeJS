@@ -13,4 +13,12 @@ Oynamak için: https://keremersu35.github.io/ReachHomeJS/
 
 <img src="Images/ss1.png" width="600" height="360">  <img src="Images/ss2.png" width="600" height="360">
 
+# Kullanılan Teknolojiler
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
+
 
