@@ -21,4 +21,7 @@ Oynamak için: https://keremersu35.github.io/ReachHomeJS/
   <li>JavaScript</li>
 </ul>
 
+# Oluşturan
+
+`Kerem Ersu` [LinkedIn](https://www.linkedin.com/in/kerem-ersu-0082ba194/)
 
