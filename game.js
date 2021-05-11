@@ -115,7 +115,7 @@ function draw(){
         
         obstacles[i].y += 3;
         
-        if(obstacles[i].y == 360){
+        if(obstacles[i].y == 180){
             shuffleArray(lanes)
             obstacles.push({
                 x : lanes[0],
