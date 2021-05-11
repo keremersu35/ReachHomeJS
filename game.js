@@ -23,7 +23,7 @@ gameOver.volume = 0.3;
 
 var carX = 440;
 var carY = 500;
-var obstacleGap = 400;
+var obstacleGap = 390;
 var obstacles = [];
 var lanes = [270,440,610,780];
 var score = 0;
@@ -113,9 +113,9 @@ function draw(){
         ctx.drawImage(carOb2,obstacles[i].x1, obstacles[i].y,60,120);
         ctx.drawImage(carOb3,obstacles[i].x2,obstacles[i].y,60,120);
         
-        obstacles[i].y += 2;
+        obstacles[i].y += 3;
         
-        if(obstacles[i].y == 350){
+        if(obstacles[i].y == 360){
             shuffleArray(lanes)
             obstacles.push({
                 x : lanes[0],
@@ -123,9 +123,10 @@ function draw(){
                 x2: lanes[2],
                 y : obstacles[i].y - obstacleGap
             }); 
+            continue;
         }
 
-        if(obstacles[i].y >= 400 && obstacles[i].y <= 630) {
+        if(obstacles[i].y >= 400 && obstacles[i].y <= 620) {
             if(gameControl(carX,carY,obstacles[i].x,obstacles[i].x1,obstacles[i].x2,obstacles[i].y) == 0){
                 setTimeout(() => {
                     cancelAnimationFrame(stopAnimate);
@@ -153,7 +154,3 @@ function draw(){
 
 score = scoreFunc();
 draw();
-
-
-
-
