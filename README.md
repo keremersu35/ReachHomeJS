@@ -17,7 +17,6 @@ Oynamak için: https://keremersu35.github.io/ReachHomeJS/
 
 <ul>
   <li>HTML</li>
-  <li>CSS</li>
   <li>JavaScript</li>
 </ul>
 
